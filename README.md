@@ -1,16 +1,20 @@
-### Hi there 👋
-[![Miller-em's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miller-em)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Miller-em/Miller-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm here👋
 
-Here are some ideas to get you started:
+> I'm a DLer and CUITer, mainly engaged in the Computer Vision!
+> <a href="https://github.com/Miller-em?tab=repositories">
+> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Miller-em&show_icons=true&theme=radical" />
+> </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently studying in **Chengdu University of Information Technology**
+- 🌱 I’m currently learning：
+  - [x] DeepLearning
+  - [x] Computer Vision (classification, OCR, object detection, semantic segmentation...)
+  - [x] Embedded System (Jetson Nano, raspberry pi, stm32, esp32...)
+  - [x] GUI Development (PyQt5, Qt...)
+  - [x] Android Development
+- 📫 How to reach me:
+  - QQ: 1813785561
+  - E-mail: a1813785561@gmail.com or 1813785561@qq.com
+- 😄 Personal Website:
+  [xiaozhoua.top](http://xiaozhoua.top/)
