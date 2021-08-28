@@ -16,6 +16,6 @@
   - QQ: 1813785561
   - E-mail: a1813785561@gmail.com or 1813785561@qq.com
 - 😄 **Personal Website:**
-  [xiaozhoua.top](http://xiaozhoua.top/)
+  [xiaozhoua.top](https://xiaozhoua.top/)
   
 
