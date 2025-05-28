@@ -1,6 +1,6 @@
 ### Hi there, I'm here👋
 
-> I'm a DLer and CUITer, mainly engaged in the Computer Vision!
+> I'm a UESTCer, mainly engaged in the Computer Vision and Wireless Communication!
 > <a href="https://github.com/Miller-em?tab=repositories">
 > <img align="right" src="https://github-readme-stats.vercel.app/api?username=Miller-em&show_icons=true&theme=radical" />
 > </a>
